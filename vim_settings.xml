@@ -674,6 +674,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/economy/src/core.clj" timestamp="1538349198573">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/angular-highcharts/src/app/zoom-chart/zoom-chart.component.ts" timestamp="1511299042819">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="13" column="1" />
@@ -1645,8 +1650,8 @@
       <register name="a" type="4">
         <text>apa-monitoring</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KHByaW50IChmb28pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>

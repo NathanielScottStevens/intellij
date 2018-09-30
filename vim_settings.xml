@@ -1,0 +1,1829 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/.gitignore" timestamp="1534528244672">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-highcharts/src/app/basic-chart/basic-chart.component.ts" timestamp="1518121765840">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/configuration.ts" timestamp="1513871802754">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/select-config.sh" timestamp="1508879195760">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/data-streams.yml" timestamp="1534513881107">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/credentials.yml" timestamp="1505917514959">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/letter-counter/main.py" timestamp="1525362576388">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="15" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1534514267992">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/assets/config/config.json" timestamp="1515509725882">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/tests/query_test.py" timestamp="1522265079593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="24" column="57" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/adjustments_landing.py" timestamp="1525097881121">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" timestamp="1535471742618">
+        <mark key="'" line="125" column="8" />
+        <mark key="[" line="91" column="59" />
+        <mark key="]" line="176" column="27" />
+        <mark key="." line="176" column="27" />
+        <mark key="^" line="167" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-kata-shyamala/src/test/java/DogTest.java" timestamp="1516657463687">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/manifest.yml" timestamp="1517343873523">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/tests/database_test.py" timestamp="1522933791069">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/test/groovy/pages/PortalPage.groovy" timestamp="1531169679466">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/deploy-subscription.sh" timestamp="1520540186132">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-kata-shyamala/src/test/java/VendingMachineTest.java" timestamp="1516734850887">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_config.py" timestamp="1537392087637">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/test/adjustments_data_model_test.py" timestamp="1524860665961">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="12" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_s3_bucket.py" timestamp="1537392101628">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/main.py" timestamp="1525099124363">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/python-base-kata/test/audition_test.py" timestamp="1514925543447">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+        <mark key="^" line="36" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/data_stream.py" timestamp="1535395940025">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/InventorySegmentType.sql" timestamp="1523451928401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/.gitignore" timestamp="1515188577589">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/unit-test.sh" timestamp="1506533238006">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/Procfile" timestamp="1534949258111">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-game/src/app/app.component.ts" timestamp="1515724920107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/bubble/bubble.component.ts" timestamp="1504630164490">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Physician.sql" timestamp="1520026530801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/install-packages.yml" timestamp="1506371102729">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/select-config.yml" timestamp="1508878793556">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/push-to-nexus.yml" timestamp="1508355343838">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/push-to-nexus-settings.xml" timestamp="1508276014999">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/s3pushexample.py" timestamp="1520370528314">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="109" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/extract-portal.yml" timestamp="1515425891952">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" timestamp="1535491756832">
+        <mark key="'" line="90" column="29" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="33" />
+        <mark key="." line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/Application.java" timestamp="1504039592804">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/test/groovy/utilities/Login.groovy" timestamp="1531169146498">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="58" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/src/query_test.py" timestamp="1521048195043">
+        <mark key="[" line="83" column="53" />
+        <mark key="]" line="83" column="89" />
+        <mark key="." line="83" column="53" />
+        <mark key="^" line="76" column="52" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a632bdb-1229-401d-9672-342ae1220aad/console_2.sql" timestamp="1521561453651">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/pull-from-nexus.yml" timestamp="1508355388204">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/ClinicalOrderLinesDrugFamilyGroup.sql" timestamp="1520020565822">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/filter/filter.component.ts" timestamp="1519079039675">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/query-tests.py" timestamp="1520004797009">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/Adjustments.sql" timestamp="1520015353906">
+        <mark key="[" line="20" column="102" />
+        <mark key="]" line="20" column="102" />
+        <mark key="." line="20" column="102" />
+        <mark key="^" line="20" column="101" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_s3.py" timestamp="1534428157187">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/navbar/navbar.component.scss" timestamp="1517497695187">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="29" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/execute.sh" timestamp="1520889720216">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/AllDatabases/PMS/Urology-Associates_PMS.sql" timestamp="1523376105388">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/apa/MessageController.java" timestamp="1509116524668">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/game_test.go" timestamp="1531680513859">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/push-to-nexus.sh" timestamp="1508272518410">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/test/config_test.py" timestamp="1524510296298">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Form.sql" timestamp="1520022674463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/footer/footer.component.html" timestamp="1515536578120">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/InventoryHistory.sql" timestamp="1520022723700">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/environments/environment.prod.ts" timestamp="1509541700925">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/retina-db/Dockerfile" timestamp="1524576257459">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af223c0-4cdc-4da8-97fe-47904956db7c/console.sql" timestamp="1524077763995">
+        <mark key="[" line="0" column="104" />
+        <mark key="]" line="0" column="105" />
+        <mark key="." line="0" column="105" />
+        <mark key="^" line="0" column="94" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/promote-binary-services.yml" timestamp="1515437069139">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1537212256030">
+        <mark key="'" line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DistributorPartAttributes.sql" timestamp="1520021409513">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/deploy.sh" timestamp="1520540191212">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Route.sql" timestamp="1520026606287">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/report/report.component.html" timestamp="1507572485653">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/environments/environment.stage.ts" timestamp="1508860049813">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/deploy.sh" timestamp="1537279443334">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/pillar/baby_sitter_payment_calculator.py" timestamp="1528921595603">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/test/main/java/apa/ApplicationTest.java" timestamp="1504041346772">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/three_of_a_kind_hand.go" timestamp="1531703788265">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/.gitignore" timestamp="1535487891632">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/new_queries/execute.sh" timestamp="1520018332669">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/subscriptions/subscriptions.component.ts" timestamp="1520540007077">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/pipeline.yml" timestamp="1506532596600">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/select-prod-config.yml" timestamp="1509051689525">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/PokerHand/card_test.go" timestamp="1530930632048">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/karma.conf.js" timestamp="1517425731238">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/tag.sh" timestamp="1515164293613">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-highcharts/src/app/app.component.html" timestamp="1513953445574">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/two_pair_hand.go" timestamp="1531703853414">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/pull-from-nexus.yml" timestamp="1515169210482">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/test/java/apa/QuestionControllerTest.java" timestamp="1513720785705">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9875f933-103e-437d-94df-609550f1708f/console.sql" timestamp="1534189964821">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/TransferOrderLine.sql" timestamp="1520026681782">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/unit-test-portal.sh" timestamp="1516200166617">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/environment.yml" timestamp="1535393568691">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/high_card_hand.go" timestamp="1531703827414">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/src/db.py" timestamp="1524860456597">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="19" column="54" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/apa/Message.java" timestamp="1509113502937">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-kata-shyamala/src/main/java/Coin.java" timestamp="1516734970178">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/publish-services.sh" timestamp="1515104205572">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/database/Dockerfile" timestamp="1524517367110">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/extract.yml" timestamp="1515428837905">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/java-base/src/java/test/Application.java" timestamp="1501620426066">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-kata-shyamala/src/main/java/Dog.java" timestamp="1516657450103">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/maven-resource/test/all.sh" timestamp="1508253654448">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/logs/2018-03-05 11:47:21.380755.log" timestamp="1520268957372">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_utilities.py" timestamp="1537392118350">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-highcharts/src/tsconfig.app.json" timestamp="1511277085844">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/config-service.service.spec.ts" timestamp="1508793081536">
+        <mark key="[" line="22" column="80" />
+        <mark key="]" line="22" column="80" />
+        <mark key="." line="22" column="80" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/credentials.serviceaccts.yml" timestamp="1515080673047">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537472524443">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/select-config.sh" timestamp="1508880752687">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-ui/src/app/app.component.html" timestamp="1504035858662">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/publish-services.yml" timestamp="1515104645716">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Employee.sql" timestamp="1520265353290">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/InventoryLocationCabinet.sql" timestamp="1520024028001">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/Query.py" timestamp="1519943008429">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/select-config-prod.yml" timestamp="1515437965381">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/LdapSearch/build/resources/main/LDAPConnection.ini" timestamp="1534191176511">
+        <mark key="[" line="0" column="156" />
+        <mark key="]" line="0" column="187" />
+        <mark key="." line="0" column="156" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/TransferOrder.sql" timestamp="1520026658860">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/card.go" timestamp="1531680967200">
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="11" />
+        <mark key="^" line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/.gitignore" timestamp="1522265410655">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" timestamp="1534789428891">
+        <mark key="[" line="109" column="26" />
+        <mark key="]" line="111" column="47" />
+        <mark key="^" line="111" column="47" />
+        <mark key="." line="111" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1534256314889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/push-to-nexus.yml" timestamp="1508272242760">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/pull-and-extract.sh" timestamp="1508352854067">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/app.component.css" timestamp="1520525484826">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/utilities.py" timestamp="1535395525221">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/assets/config/nathaniel-dev.json" timestamp="1514995097478">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="72" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/extract.sh" timestamp="1515168988504">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/creature/src/creature.clj" timestamp="1532447552168">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-highcharts/src/app/zoom-chart/zoom-chart.component.ts" timestamp="1511299042819">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/adjustments_data_model.py" timestamp="1525096859099">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="96" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stanford-tests/build.gradle" timestamp="1501992531524">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/docker-postgres/kill.sh" timestamp="1521563658648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/gradle.properties" timestamp="1531169492042">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/chart-navigation/chart-navigation.component.css" timestamp="1520518768119">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/46f67e70-5a65-493d-a967-cfeed38f3516/console.sql" timestamp="1528122806714">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/subscriptions/subscriptions.component.css" timestamp="1520534355480">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/chart.ts" timestamp="1520539951199">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/tsconfig.app.json" timestamp="1519066292996">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/s3_bucket.py" timestamp="1534958648102">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_data_stream.py" timestamp="1537392072286">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/message.ts" timestamp="1509114977011">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/select-config.yml" timestamp="1509051478479">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/okta-angular/src/app/shared/index.ts" timestamp="1509395229002">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/test/groovy/visualtest/specifications/BillingAndCodingSpec.groovy" timestamp="1531422484461">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/app.component.html" timestamp="1520524658344">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/message.service.ts" timestamp="1509117629615">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/src/database_test.py" timestamp="1521047987143">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/maven-resource/test/helpers.sh" timestamp="1508166488256">
+        <mark key="[" line="232" column="29" />
+        <mark key="]" line="232" column="35" />
+        <mark key="." line="232" column="35" />
+        <mark key="^" line="232" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/header/header.component.scss" timestamp="1517436798292">
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Item.sql" timestamp="1520024339540">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/install-packages.sh" timestamp="1506533230791">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/promote-binaries.sh" timestamp="1515436210216">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/promote-binary-portal.yml" timestamp="1515437047542">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/ClinicalOrders.sql" timestamp="1520020688584">
+        <mark key="[" line="9" column="89" />
+        <mark key="]" line="9" column="89" />
+        <mark key="^" line="9" column="89" />
+        <mark key="." line="9" column="89" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/adjustments_landing_test.py" timestamp="1525096943627">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="44" column="90" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1537297857369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1534952908574">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/lint.yml" timestamp="1506533982304">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/retina-db/build.sh" timestamp="1520348165898">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/adjustments_data_model_test.py" timestamp="1525098388524">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/sample_config.yml" timestamp="1534949293491">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/deploy.sh" timestamp="1507149906143">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/hand.go" timestamp="1531705751070">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/config.py" timestamp="1534775112095">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="41" />
+        <mark key="^" line="21" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/test/database_test.py" timestamp="1522264630297">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1535395811704">
+        <mark key="'" line="28" column="11" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/select-config.yml" timestamp="1509108562506">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/pull-from-nexus-services.yml" timestamp="1515171330045">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-highcharts/src/app/app.module.ts" timestamp="1518617719499">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/server/server.go" timestamp="1536772218553">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.sh" timestamp="1508349322296">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/tag.yml" timestamp="1515164310326">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/new_queries/execute.py" timestamp="1520018929908">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/src/file_wrapper.py" timestamp="1524489302438">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/push-to-nexus-services.yml" timestamp="1515435908519">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1535395986176">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.yml" timestamp="1508357593883">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/manifest.yml" timestamp="1535551939927">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/pull-from-nexus.sh" timestamp="1508352499881">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/credentials.serviceaccts.yml" timestamp="1505930288824">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/database/run.sh" timestamp="1524517193013">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/README.md" timestamp="1524752250528">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/test/java/apa/QuestionTest.java" timestamp="1513719837061">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="24" column="53" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/frequency.ts" timestamp="1520455423255">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/run-regression.sh" timestamp="1509047931448">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/manifest.yml" timestamp="1505915578378">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/src/smtp.py" timestamp="1534360360277">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/environment.yml" timestamp="1525094509923">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/okta-angular/src/app/app.component.ts" timestamp="1509394898307">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/footer/footer.component.scss" timestamp="1515536752176">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-backend-poc/README.md" timestamp="1525122400210">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/four_of_a_kind_hand.go" timestamp="1531703806269">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/common/pull-from-nexus-portal.yml" timestamp="1515425497045">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/apa/TabController.java" timestamp="1504040349151">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/dask-spark/main.py" timestamp="1520630272420">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/README.md" timestamp="1537379391434">
+        <mark key="'" line="6" column="69" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/config.yml" timestamp="1524508975268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/test/groovy/test/specifications/BillingAndCodingSpec.groovy" timestamp="1531422513904">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/build.yml" timestamp="1506521877169">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/common/groovy/pages/LoginPage.groovy" timestamp="1531422592279">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/report/report.component.scss" timestamp="1507572403587">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/questions.service.ts" timestamp="1504642719366">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/apa/ConfigController.java" timestamp="1513796381784">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_smtp.py" timestamp="1537392109007">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/AdminSummary.sql" timestamp="1520021166979">
+        <mark key="[" line="5" column="98" />
+        <mark key="]" line="5" column="125" />
+        <mark key="^" line="5" column="68" />
+        <mark key="." line="5" column="125" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71f51ae1-f22e-4096-aacf-9e887331f30f/console.sql" timestamp="1534262038948">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/test-6/build.gradle" timestamp="1501970470256">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/database/init.sql" timestamp="1524860093390">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/e2e/reimbursement-analytics.po.ts" timestamp="1509545719795">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/src/s3_wrapper.py" timestamp="1534516678141">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="11" column="86" />
+        <mark key="^" line="11" column="86" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/two_of_a_kind_hand.go" timestamp="1531703968825">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/config.yml" timestamp="1535397553318">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/Dockerfile" timestamp="1524750496695">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/docker-postgres/run-postgres.sh" timestamp="1521650922566">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/tag-services.yml" timestamp="1515164509410">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-etl/.gitignore" timestamp="1525094096078">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/build.sh" timestamp="1524750471868">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/unit-test-portal.yml" timestamp="1516199633306">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/lint.sh" timestamp="1506533161882">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/config-service.service.ts" timestamp="1508793013247">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/config_sample.yml" timestamp="1524509001582">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-template-validation/src/app/app.component.html" timestamp="1528227613682">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/build.yml" timestamp="1508250717592">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-ui/.gitignore" timestamp="1504036903712">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/.gitignore" timestamp="1515516337304">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="53" column="36" />
+        <mark key="." line="53" column="36" />
+        <mark key="^" line="53" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/environments/environment.ts" timestamp="1509540068337">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/.gitignore" timestamp="1531061800994">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/polyfills.ts" timestamp="1516141194711">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/main.go" timestamp="1531085260442">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-services/src/test/java/apa/ApplicationTest.java" timestamp="1504041449500">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/.angular-cli.json" timestamp="1508860199693">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/deploy.yml" timestamp="1507143538340">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/angular-game/src/app/app.component.html" timestamp="1515724930050">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/game.go" timestamp="1531681228652">
+        <mark key="[" line="34" column="62" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+        <mark key="^" line="34" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/app.component.ts" timestamp="1507560741459">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/okta-angular-openid-connect-example/src/app/app.component.ts" timestamp="1509478071069">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/publish-portal.yml" timestamp="1515425118808">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/src/database.py" timestamp="1524672869992">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="23" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/pom.xml" timestamp="1507322280376">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/PriceResolved.sql" timestamp="1520026577165">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/HighCardHand.go" timestamp="1531703513884">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/pair_hand.go" timestamp="1531703763236">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-ui/src/app/app.component.spec.ts" timestamp="1504035932868">
+        <mark key="[" line="23" column="98" />
+        <mark key="]" line="23" column="98" />
+        <mark key="." line="23" column="98" />
+        <mark key="^" line="23" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/run-regression.yml" timestamp="1509652203768">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Patient.sql" timestamp="1520024437071">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DispenseLines.sql" timestamp="1524753663944">
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="2" column="67" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="67" />
+      </file>
+      <file name="$USER_HOME$/go/src/poker_hand/card_test.go" timestamp="1531680992768">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/new_queries/queries.txt" timestamp="1520019192594">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/PokerHand/Game.go" timestamp="1530897345251">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/assets/config/stage.json" timestamp="1514994976156">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/tab-wrapper/tab-wrapper.component.css" timestamp="1504806662275">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/LdapSearch/src/main/resources/LDAPConnect.ini" timestamp="1534251855729">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-deploy/build/unit-test-services.sh" timestamp="1515079487517">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/e2e/specialtyonline.po.ts" timestamp="1508517528985">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/46f67e70-5a65-493d-a967-cfeed38f3516/console_2.sql" timestamp="1523626043195">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="80" />
+        <mark key="^" line="64" column="1" />
+        <mark key="." line="64" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/Adjustments.sql" timestamp="1524753505699">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="99" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DrugFamilyGroup.sql" timestamp="1520022615637">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/runtime.txt" timestamp="1534519749209">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/tab/tab.component.ts" timestamp="1505229109827">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/report-builder/src/app/chart-navigation/chart-navigation.component.html" timestamp="1520525943155">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-portal/src/app/tab/tab.component.scss" timestamp="1504876231003">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="136" column="0" filename="$USER_HOME$/go/src/poker_hand/hand_factory.go" />
+      <jump line="133" column="55" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="24" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="25" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="42" column="38" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="43" column="75" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="77" column="53" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="85" column="28" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="91" column="53" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="121" column="20" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="108" column="32" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="130" column="18" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="109" column="15" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/manifest.yml" />
+      <jump line="27" column="63" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_smtp.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/smtp.py" />
+      <jump line="7" column="3" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/main.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/main.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/main.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/s3.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/main.py" />
+      <jump line="19" column="14" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/s3_utilities.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/src/s3_utilities.py" />
+      <jump line="1" column="35" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="30" column="28" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_s3_bucket.py" />
+      <jump line="8" column="63" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" />
+      <jump line="19" column="11" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" />
+      <jump line="7" column="46" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" />
+      <jump line="16" column="40" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="68" column="48" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="6" column="69" filename="$USER_HOME$/projects/fuse/apa-monitoring/README.md" />
+      <jump line="34" column="8" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="89" column="18" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="90" column="4" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="61" column="34" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="74" column="58" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="9" column="29" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="75" column="31" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="84" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="122" column="0" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="138" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="146" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="147" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="148" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="149" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="167" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="174" column="5" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="176" column="25" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="213" column="21" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="0" column="38" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="15" column="5" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="21" column="13" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="50" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="51" column="10" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="64" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="69" column="7" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="83" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="91" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="93" column="26" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="95" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="98" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="108" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="119" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="125" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="121" column="20" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="175" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="212" column="0" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="92" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="96" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="106" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="117" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="122" column="16" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="136" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="144" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="145" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="146" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="147" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="165" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="172" column="5" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="174" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="211" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="0" column="38" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="3" column="195" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="15" column="5" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="49" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="50" column="10" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="61" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="66" column="7" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="82" column="8" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="88" column="4" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="90" column="29" filename="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" />
+      <jump line="16" column="25" filename="$USER_HOME$/go/src/server/server.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/go/src/server/server.go" />
+      <jump line="4" column="42" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text>apa-monitoring</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="b" type="4">
+        <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
+      </register>
+      <register name="c" type="4">
+        <text>=</text>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="f" type="4">
+        <text>configuration_marginAnalyticsUrl</text>
+      </register>
+      <register name="g" type="4">
+        <text>'marginAnalytics.com'</text>
+      </register>
+      <register name="i" type="4">
+        <text />
+      </register>
+      <register name="j" type="4">
+        <text>j{{}}j</text>
+      </register>
+      <register name="k" type="4">
+        <text>kbj&quot;apukbbb&quot;ayi(j</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>panic</text>
+      </register>
+      <register name="0" type="4">
+        <text>Can't send email, host name is invalid: {str(e)}</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">SW5zdGFsbCBtaW5pY29uZGEKCmBgYApicmV3IGNhc2sgaW5zdGFsbCBtaW5pY29uZGEKYGBgCg==</text>
+      </register>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">SW5zdGFsbCBtaW5pY29uZGEKCmBgYApicmV3IGNhc2sgaW5zdGFsbCBtaW5pY29uZGEK</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QWZ0ZXIgdGhlIHVwbG9hZCBhbmQgYnVpbGRpbmcgb2YgdGhlIGNvbnRhaW5lciBoYXZlIGNvbXBsZXRlZCwgeW91IHdpbGwgbmVlZCB0byBzdG9wIHRoZSBjb250YWluZXIuClNpbmNlIFBDRiBleHBlY3RzIHByb2dyYW1zIHRvIHJ1biBhcyBzZXJ2aWNlcywgaXQgd2lsbCBjb250aW51ZSB0byByZXN0YXJ0IHRoZSBhcHBsaWNhdGlvbiBhZnRlciBpdCBmaW5pc2hlcy4K</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YGBgCmNmIHN0b3AgYXBhLW1vbml0b3JpbmcKYGBgYAo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>e~b</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">UHVzaCB0byB0aGUgUENGIHNwYWNlIG9mIGNob2ljZQpgYGAKY2YgcHVzaApgYGAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UHVzaCB0byB0aGUgUENGIHNwYWNlIG9mIGNob2ljZQpgYGAKY2YgcHVzaApgYGAKQWZ0ZXIgdGhlIHVwbG9hZCBhbmQgYnVpbGRpbmcgb2YgdGhlIGNvbnRhaW5lciBoYXZlIGNvbXBsZXRlZCwgeW91IHdpbGwgbmVlZCB0byBzdG9wIHRoZSBjb250YWluZXIuClNpbmNlIFBDRiBleHBlY3RzIHByb2dyYW1zIHRvIHJ1biBhcyBzZXJ2aWNlcywgaXQgd2lsbCBjb250aW51ZSB0byByZXN0YXJ0IHRoZSBhcHBsaWNhdGlvbiBhZnRlciBpdCBmaW5pc2hlcy4KYGBgCmNmIHN0b3AgYXBhLW1vbml0b3JpbmcKYGBgYAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CW51bSwgZXJyIDo9IHJ3LldyaXRlU3RyaW5nKCJIZWxsbyIpCglpZiBlcnIgIT0gbmlsIHsKCQlwcmludChudW0pCgkJcHJpbnQoZXJyKQoJfQoJcncuRmx1c2goKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>set relativenumber</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>panic</last-search>
+      <last-offset />
+      <last-pattern>panic</last-pattern>
+      <last-replace>..\/..</last-replace>
+      <last-substitute>\/resources</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>\/resources</entry>
+        <entry>isFull</entry>
+        <entry encoding="base64">XDxJc0ZsdXNoXD4=</entry>
+        <entry encoding="base64">XDxJc1N0cmFpZ2h0XD4=</entry>
+        <entry encoding="base64">XDxJc1BhaXJcPg==</entry>
+        <entry encoding="base64">XDxJc0Z1bGxIb3VzZVw+</entry>
+        <entry encoding="base64">XDxmaW5kSGlnaGVzdEtpbmRDb3VudFw+</entry>
+        <entry encoding="base64">XDxXaW5TdGF0ZVw+</entry>
+        <entry>sort</entry>
+        <entry>null</entry>
+        <entry>cahintAccessRole</entry>
+        <entry>on</entry>
+        <entry>main</entry>
+        <entry>fatla</entry>
+        <entry>fatal</entry>
+        <entry>Fatal</entry>
+        <entry>print</entry>
+        <entry>Println</entry>
+        <entry>log</entry>
+        <entry>panic</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz4lcy8nLyIvZw==</entry>
+        <entry>%s/add-button/large-icon/g</entry>
+        <entry encoding="base64">JzwsJz5zLy0vXy9n</entry>
+        <entry>set relative</entry>
+        <entry>set rn</entry>
+        <entry>set paste</entry>
+        <entry>s/DIAG_PRINCIPAL/DIAG_2/g</entry>
+        <entry>s/DIAG_PRINCIPAL/DIAG_3/g</entry>
+        <entry>s/DIAG_PRINCIPAL/DIAG_4/g</entry>
+        <entry>set number</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>%s/-/_/g</entry>
+        <entry>%s/=/==/g</entry>
+        <entry encoding="base64">JzwsJz4lcy9WQVJDSEFSKDUwKS8nb2JqZWN0Jy9n</entry>
+        <entry>%s/:inserted_amount/:inserted-amount/g</entry>
+        <entry encoding="base64">JzwsJz4lcy9cL3Jlc291cmNlcy8uLlwvLi4vZw==</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+        <entry>Print</entry>
+        <entry>set relativenumber</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

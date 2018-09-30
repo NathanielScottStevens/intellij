@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration email="">
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="composeExecPath" value="$USER_HOME$/projects/fuse/source/docker-compose.yml" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

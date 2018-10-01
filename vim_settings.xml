@@ -201,6 +201,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/scheduler.py" timestamp="1538410034921">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/push-to-nexus.yml" timestamp="1508355343838">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="24" column="16" />
@@ -629,7 +635,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538347841924">
+      <file name="/Dummy.txt" timestamp="1538410657546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/build/select-config.sh" timestamp="1508880752687">
@@ -969,12 +975,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1535395811704">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1538409860049">
         <mark key="'" line="28" column="11" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/common/select-config.yml" timestamp="1509108562506">
         <mark key="[" line="16" column="21" />
@@ -1030,11 +1036,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1535395986176">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1538410052473">
         <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="8" column="63" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.yml" timestamp="1508357593883">
         <mark key="[" line="6" column="16" />
@@ -1072,6 +1078,13 @@
         <mark key="]" line="58" column="3" />
         <mark key="." line="58" column="3" />
         <mark key="^" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" timestamp="1538410119837">
+        <mark key="'" line="50" column="1" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="50" column="22" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-services/src/test/java/apa/QuestionTest.java" timestamp="1513719837061">
         <mark key="[" line="2" column="0" />
@@ -1541,10 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/go/src/poker_hand/hand_factory.go" />
-      <jump line="133" column="55" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
-      <jump line="24" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
-      <jump line="25" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="42" column="38" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="43" column="75" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="77" column="53" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
@@ -1641,13 +1650,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/go/src/server/server.go" />
       <jump line="4" column="42" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="1" column="17" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
+      <jump line="27" column="1" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
+      <jump line="37" column="1" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
+      <jump line="50" column="1" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1678,10 +1691,10 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>panic</text>
+        <text>patch</text>
       </register>
       <register name="0" type="4">
         <text>Can't send email, host name is invalid: {str(e)}</text>
@@ -1767,9 +1780,9 @@
       </register>
     </registers>
     <search>
-      <last-search>panic</last-search>
+      <last-search>patch</last-search>
       <last-offset />
-      <last-pattern>panic</last-pattern>
+      <last-pattern>patch</last-pattern>
       <last-replace>..\/..</last-replace>
       <last-substitute>\/resources</last-substitute>
       <last-dir>1</last-dir>
@@ -1777,7 +1790,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/resources</entry>
         <entry>isFull</entry>
         <entry encoding="base64">XDxJc0ZsdXNoXD4=</entry>
         <entry encoding="base64">XDxJc1N0cmFpZ2h0XD4=</entry>
@@ -1797,6 +1809,7 @@
         <entry>Println</entry>
         <entry>log</entry>
         <entry>panic</entry>
+        <entry>patch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8nLyIvZw==</entry>

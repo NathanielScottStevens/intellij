@@ -115,10 +115,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_config.py" timestamp="1537392087637">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_config.py" timestamp="1538507677247">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-etl/test/adjustments_data_model_test.py" timestamp="1524860665961">
         <mark key="[" line="7" column="12" />
@@ -203,8 +204,8 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/scheduler.py" timestamp="1538410034921">
-        <mark key="[" line="1" column="9" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/scheduler.py" timestamp="1538507326349">
+        <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
@@ -232,12 +233,6 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" timestamp="1535491756832">
-        <mark key="'" line="90" column="29" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="33" />
-        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/Application.java" timestamp="1504039592804">
         <mark key="[" line="7" column="54" />
@@ -383,12 +378,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538503511663">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538507537546">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="32" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DistributorPartAttributes.sql" timestamp="1520021409513">
         <mark key="[" line="0" column="0" />
@@ -741,11 +736,11 @@
         <mark key="." line="13" column="18" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/utilities.py" timestamp="1535395525221">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/utilities.py" timestamp="1538507572114">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+        <mark key="^" line="0" column="59" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-portal/src/assets/config/nathaniel-dev.json" timestamp="1514995097478">
         <mark key="[" line="1" column="21" />
@@ -981,12 +976,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1538506955190">
-        <mark key="'" line="28" column="11" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1538507747909">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/common/select-config.yml" timestamp="1509108562506">
         <mark key="[" line="16" column="21" />
@@ -1005,12 +1000,6 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/server/server.go" timestamp="1536772218553">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.sh" timestamp="1508349322296">
         <mark key="[" line="4" column="6" />
@@ -1041,6 +1030,12 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1538507807475">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.yml" timestamp="1508357593883">
         <mark key="[" line="6" column="16" />
@@ -1558,7 +1553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="42" column="38" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="43" column="75" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
@@ -1658,13 +1652,14 @@
       <jump line="98" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="11" column="18" filename="$USER_HOME$/projects/economy/src/economy/core.clj" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnNtdHAgYXMgc210cAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnV0aWxpdGllcwo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1695,7 +1690,7 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNtdHAu</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>panic</text>
@@ -1704,7 +1699,7 @@
         <text>apa_monitoring.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnV0aWxpdGllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1715,16 +1710,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5zY2hlZHVsZXIgaW1wb3J0IFNjaGVkdWxlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnV0aWxpdGllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5zY2hlZHVsZXIgaW1wb3J0IFNjaGVkdWxlcgo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">c2NoZWR1bGVyIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1735,7 +1730,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1765,16 +1760,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>

@@ -239,6 +239,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/src/QVW-Statistics-Extractor/qvw-statistics-extractor.go" timestamp="1535491756832">
+        <mark key="'" line="90" column="29" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="33" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fuse/apa-services/src/main/java/Application.java" timestamp="1504039592804">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="52" />
@@ -311,11 +317,10 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/conftest.py" timestamp="1538510147046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/conftest.py" timestamp="1538510279763">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/AllDatabases/PMS/Urology-Associates_PMS.sql" timestamp="1523376105388">
         <mark key="[" line="34" column="0" />
@@ -983,12 +988,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1538510033362">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" timestamp="1538510271171">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/common/select-config.yml" timestamp="1509108562506">
         <mark key="[" line="16" column="21" />
@@ -1007,6 +1011,12 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/server/server.go" timestamp="1536772218553">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.sh" timestamp="1508349322296">
         <mark key="[" line="4" column="6" />
@@ -1662,8 +1672,8 @@
       <register name="a" type="2">
         <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnNtdHAgYXMgc210cAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>../</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1703,7 +1713,7 @@
         <text>apa_monitoring.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1717,13 +1727,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJy4nKQo=</text>
+        <text encoding="base64">cHJpbnQoJ0hFUkUnKQppbQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">c2NoZWR1bGVyIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJ2FwYV9tb25pdG9yaW5nJykKcHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1734,7 +1744,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLmRhdGVfdGltZV93cmFwcGVyIGFzIGR0bQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1763,25 +1773,20 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="8">
-        <text>apa_monitoring.
-apa_monitoring.
-apa_monitoring.
-apa_monitoring.
-apa_monitoring.
-apa_monitoring.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5kYXRlX3RpbWVfd3JhcHBlciBpbXBvcnQgKgo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJy4nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5zY2hlZHVsZXIgaW1wb3J0ICoK</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5kYXRlX3RpbWVfd3JhcHBlciBpbXBvcnQgKgo=</text>
+        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLmRhdGVfdGltZV93cmFwcGVyIGFzIGR0bQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>

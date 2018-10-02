@@ -381,12 +381,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538491811292">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538493869022">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="11" column="19" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DistributorPartAttributes.sql" timestamp="1520021409513">
         <mark key="[" line="0" column="0" />
@@ -639,7 +639,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538410657546">
+      <file name="/Dummy.txt" timestamp="1538493406560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/build/select-config.sh" timestamp="1508880752687">
@@ -1040,11 +1040,11 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1538410052473">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1538493788467">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.yml" timestamp="1508357593883">
         <mark key="[" line="6" column="16" />
@@ -1664,7 +1664,7 @@
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text>apa_monitoring</text>
+        <text>import SMTPClient</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1695,7 +1695,7 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>import SMTPClient</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>

@@ -837,10 +837,12 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/economy/src/economy/core.clj" timestamp="1538453119279">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/projects/economy/src/economy/core.clj" timestamp="1538456423140">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/build/push-to-nexus.sh" timestamp="1508272518410">
         <mark key="[" line="17" column="0" />
@@ -1545,7 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/go/src/poker_hand/hand_factory.go" />
       <jump line="133" column="55" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="24" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
@@ -1645,13 +1646,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/go/src/server/server.go" />
       <jump line="4" column="42" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
+      <jump line="11" column="18" filename="$USER_HOME$/projects/economy/src/economy/core.clj" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text>println &quot;Hello, World!&quot;</text>
+        <text>(.flush (System/out))</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1682,16 +1684,16 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text>println &quot;Hello, World!&quot;</text>
+        <text>(.flush (System/out))</text>
       </register>
       <register name="/" type="4">
         <text>panic</text>
       </register>
       <register name="0" type="4">
-        <text>Can't send email, host name is invalid: {str(e)}</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZm4gKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1702,16 +1704,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiSSBkb24ndCBkbyBhIHdob2xlIGxvdCAuLi4geWV0LiIK</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KHByaW50IChmb28pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1752,19 +1754,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW5zdGFsbCBtaW5pY29uZGEKCmBgYApicmV3IGNhc2sgaW5zdGFsbCBtaW5pY29uZGEKYGBgCg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5zdGFsbCBtaW5pY29uZGEKCmBgYApicmV3IGNhc2sgaW5zdGFsbCBtaW5pY29uZGEK</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWZ0ZXIgdGhlIHVwbG9hZCBhbmQgYnVpbGRpbmcgb2YgdGhlIGNvbnRhaW5lciBoYXZlIGNvbXBsZXRlZCwgeW91IHdpbGwgbmVlZCB0byBzdG9wIHRoZSBjb250YWluZXIuClNpbmNlIFBDRiBleHBlY3RzIHByb2dyYW1zIHRvIHJ1biBhcyBzZXJ2aWNlcywgaXQgd2lsbCBjb250aW51ZSB0byByZXN0YXJ0IHRoZSBhcHBsaWNhdGlvbiBhZnRlciBpdCBmaW5pc2hlcy4K</text>
+        <text encoding="base64">KGRlZm4gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCmNmIHN0b3AgYXBhLW1vbml0b3JpbmcKYGBgYAo=</text>
+        <text encoding="base64">ICAiSSBkb24ndCBkbyBhIHdob2xlIGxvdCAuLi4geWV0LiIK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
@@ -1845,6 +1847,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

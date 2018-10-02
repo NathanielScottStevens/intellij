@@ -383,12 +383,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538493924727">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538503511663">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="16" />
-        <mark key="^" line="78" column="16" />
-        <mark key="." line="78" column="16" />
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DistributorPartAttributes.sql" timestamp="1520021409513">
         <mark key="[" line="0" column="0" />
@@ -930,7 +930,7 @@
       <file name="/Python Console" timestamp="1537297857369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1534952908574">
+      <file name="/fragment.py" timestamp="1538503512347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/lint.yml" timestamp="1506533982304">
@@ -1041,12 +1041,6 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/file_checker.py" timestamp="1535395986176">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="8" column="63" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/extract.yml" timestamp="1508357593883">
         <mark key="[" line="6" column="16" />
@@ -1666,11 +1660,11 @@
       <jump line="11" column="18" filename="$USER_HOME$/projects/economy/src/economy/core.clj" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>apa-monitoring</text>
+      <register name="a" type="2">
+        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnNtdHAgYXMgc210cAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(.flush (System/out))</text>
+        <text encoding="base64">IHNtdHAu</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1701,16 +1695,16 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text>(.flush (System/out))</text>
+        <text encoding="base64">IHNtdHAu</text>
       </register>
       <register name="/" type="4">
         <text>panic</text>
       </register>
       <register name="0" type="4">
-        <text>)</text>
+        <text encoding="base64">dXRpbGl0aWVzIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZnJvbSBhcGFfbW9uaXRvcmluZy5zY2hlZHVsZXIgaW1wb3J0IFNjaGVkdWxlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1721,16 +1715,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      <register name="s" type="4">
+        <text encoding="base64">c2NoZWR1bGVyIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1741,7 +1735,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1771,7 +1765,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
@@ -1780,10 +1774,10 @@
         <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gKQo=</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiSSBkb24ndCBkbyBhIHdob2xlIGxvdCAuLi4geWV0LiIK</text>
+        <text encoding="base64">KGRlZm4gKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>

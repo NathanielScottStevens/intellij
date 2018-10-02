@@ -381,8 +381,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1537212256030">
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" timestamp="1538491811292">
         <mark key="'" line="106" column="0" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fuse/ims-data-extractor/queries/DistributorPartAttributes.sql" timestamp="1520021409513">
         <mark key="[" line="0" column="0" />
@@ -1660,7 +1664,7 @@
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>apa_monitoring</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1697,7 +1701,7 @@
         <text>patch</text>
       </register>
       <register name="0" type="4">
-        <text>Can't send email, host name is invalid: {str(e)}</text>
+        <text>apa_monitoring</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KHByaW50IChmb28pKQo=</text>

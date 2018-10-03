@@ -837,12 +837,12 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/economy/src/economy/core.clj" timestamp="1538530639369">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/projects/economy/src/economy/core.clj" timestamp="1538456423140">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/build/push-to-nexus.sh" timestamp="1508272518410">
         <mark key="[" line="17" column="0" />
@@ -1509,12 +1509,6 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/economy/project.clj" timestamp="1538527729805">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="31" />
-      </file>
       <file name="$USER_HOME$/projects/letter-counter/main.py" timestamp="1525362576388">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="55" />
@@ -1553,6 +1547,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="133" column="55" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="24" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="42" column="38" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
@@ -1652,14 +1647,13 @@
       <jump line="4" column="42" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="11" column="18" filename="$USER_HOME$/projects/economy/src/economy/core.clj" />
-      <jump line="15" column="18" filename="$USER_HOME$/projects/economy/src/economy/core.clj" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(.flush (System/out))</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1690,16 +1684,16 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(.flush (System/out))</text>
       </register>
       <register name="/" type="4">
         <text>panic</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAoY29uZmlnISBmIDpjb250ZW50IGNvbnRlbnQpCg==</text>
+      <register name="0" type="4">
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1710,16 +1704,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZiBmIChmcmFtZSA6dGl0bGUgIkVjb25vbXkiKSkK</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoZm4gKHRleHQgOm11bHRpLWxpbmU/IHRydWUgOnRleHQgIi4gLiAuXG4uIC4gQFxuLiAuIC4iKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoZGlzcGxheSkK</text>
+        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1730,7 +1724,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoZGVmIGYgKGZyYW1lIDp0aXRsZSAiRWNvbm9teSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1760,19 +1754,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA7KGNsZWFyLXNjcmVlbikKICA7KHByaW50ICIuIC4gLlxuLiAuIEBcbi4gLiAuXG4iKQogIDsoVGhyZWFkL3NsZWVwIDEpCg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAocHJpbnQgIi4gLiAuXG4uIEAgLlxuLiAuIC5cbiIpCg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoY2xlYXItc2NyZWVuKQo=</text>
+        <text encoding="base64">KGRlZm4gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4gY2xlYXItc2NyZWVuIFtdCiAgKC5wcmludCAoU3lzdGVtL291dCkgIlwwMzNbSFwwMzNbMkoiKQogICkKCg==</text>
+        <text encoding="base64">ICAiSSBkb24ndCBkbyBhIHdob2xlIGxvdCAuLi4geWV0LiIK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
@@ -1856,9 +1850,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

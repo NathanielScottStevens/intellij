@@ -121,6 +121,9 @@
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/fuse/apa-monitoring/data_streams.yml" timestamp="1538588177845">
+        <mark key="[" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/__init__.py" timestamp="1538509610047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="20" />

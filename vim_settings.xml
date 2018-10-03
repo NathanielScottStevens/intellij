@@ -65,25 +65,11 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/PracticeAnalytics/GO/QVW-Statistics-Extractor/qvw-statistics-extractor.go" timestamp="1535471742618">
-        <mark key="'" line="125" column="8" />
-        <mark key="[" line="91" column="59" />
-        <mark key="]" line="176" column="27" />
-        <mark key="." line="176" column="27" />
-        <mark key="^" line="167" column="26" />
-      </file>
       <file name="$USER_HOME$/Downloads/java-kata-shyamala/src/test/java/DogTest.java" timestamp="1516657463687">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/economy/src/economy/core.clj" timestamp="1538456423140">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-services/manifest.yml" timestamp="1517343873523">
         <mark key="[" line="3" column="10" />
@@ -471,6 +457,12 @@
         <mark key="]" line="32" column="32" />
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/MetricsView.js" timestamp="1538599752905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="114" column="40" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/pipeline.yml" timestamp="1506532596600">
         <mark key="[" line="25" column="51" />
@@ -1069,13 +1061,6 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/manifest.yml" timestamp="1535551939927">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/fuse/apa-deploy/deploy/pull-from-nexus.sh" timestamp="1508352499881">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="32" />
@@ -1128,13 +1113,6 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/src/smtp.py" timestamp="1534360360277">
-        <mark key="'" line="34" column="12" />
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="33" />
-        <mark key="." line="34" column="33" />
-        <mark key="^" line="42" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/fuse/apa-etl/environment.yml" timestamp="1525094509923">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="16" />
@@ -1182,13 +1160,6 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/fuse/apa-monitoring/README.md" timestamp="1537379391434">
-        <mark key="'" line="6" column="69" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/projects/fuse/ims-data-extractor/config.yml" timestamp="1524508975268">
         <mark key="[" line="0" column="0" />
@@ -1295,6 +1266,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/DataView.js" timestamp="1538598960694">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/projects/fuse/docker-postgres/run-postgres.sh" timestamp="1521650922566">
         <mark key="[" line="1" column="23" />
@@ -1691,7 +1668,7 @@
         <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnNtdHAgYXMgc210cAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tICdyZWFjdCc7CmltcG9ydCB7Q29sLCBGb3JtQ29udHJvbCwgQ29udHJvbExhYmVsLCBGb3JtR3JvdXAsIFJhZGlvLCBDaGVja2JveH0gZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsKLy8gaW1wb3J0ICcuL01ldHJpY1ZpZXcuY3NzJzsKCmNsYXNzIE1ldHJpY3NWaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgfTsKICAgIH0KICAgIGRlbW9ncmFwaGljRm9ybVNlY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1731,7 +1708,7 @@
         <text>apa_monitoring.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tICdyZWFjdCc7CmltcG9ydCB7Q29sLCBGb3JtQ29udHJvbCwgQ29udHJvbExhYmVsLCBGb3JtR3JvdXAsIFJhZGlvLCBDaGVja2JveH0gZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsKLy8gaW1wb3J0ICcuL01ldHJpY1ZpZXcuY3NzJzsKCmNsYXNzIE1ldHJpY3NWaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgfTsKICAgIH0KICAgIGRlbW9ncmFwaGljRm9ybVNlY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1742,16 +1719,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">CiAgICByZW5kZXJGaWx0ZXJPcHRpb25zKHR5cGUpIHsKICAgICAgICBsZXQgZmlsdGVyVmFsdWVzID0gdGhpcy5wcm9wcy5maWx0ZXJWYWx1ZXM7CiAgICAgICAgaWYgKGZpbHRlclZhbHVlcyAmJiBPYmplY3Qua2V5cyhmaWx0ZXJWYWx1ZXMpLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIGZpbHRlclZhbHVlc1t0eXBlXS5tYXAoKHZhbHVlLCBpKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gPG9wdGlvbiB2YWx1ZT17dmFsdWV9IGtleT17aX0+e3ZhbHVlfTwvb3B0aW9uPgogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">c2NoZWR1bGVyIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoJ0hFUkUnKQppbQo=</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1762,7 +1739,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJ2FwYV9tb25pdG9yaW5nJykKcHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1792,19 +1769,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">cHJpbnQoJ0hFUkUnKQppbQo=</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJ2FwYV9tb25pdG9yaW5nJykKcHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJy4nKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>

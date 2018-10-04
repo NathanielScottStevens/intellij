@@ -90,11 +90,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/economy/test/economy/grid_test.clj" timestamp="1538624882153">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/projects/economy/test/economy/grid_test.clj" timestamp="1538626013816">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-qlikview-tests/src/common/groovy/pages/LoginPage.groovy" timestamp="1531422592279">
         <mark key="[" line="12" column="43" />
@@ -174,8 +174,11 @@
         <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/economy/src/economy/grid.clj" timestamp="1538624637586">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/projects/economy/src/economy/grid.clj" timestamp="1538625973975">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-portal/src/assets/config/config.json" timestamp="1515509725882">
         <mark key="[" line="1" column="21" />
@@ -1661,7 +1664,7 @@
         <text>apa-monitoring</text>
       </register>
       <register name="&quot;" type="4">
-        <text>is (= 0 1)</text>
+        <text>x</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1692,16 +1695,16 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text>is (= 0 1)</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>panic</text>
       </register>
       <register name="0" type="4">
-        <text>)</text>
+        <text>[&quot;.&quot; &quot;.&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmbgo=</text>
+        <text encoding="base64">ICAodGVzdGluZykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1712,16 +1715,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZGVmbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkKCgooZGVmbiBjbGVhci1zY3JlZW4gW10KICAoc2hlbGwvc2ggImNsZWFyIikpCiAgOyhwcmludCAiXDAzM1wxNDMiKSkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1732,7 +1735,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1762,19 +1765,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAocHJpbnQgKHN0ciAoY2hhciAyNykgIlsySiIpKQo=</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4gKQo=</text>
+        <text encoding="base64">KHJlcXVpcmUgJ1tjbG9qdXJlLmphdmEuc2hlbGwgOmFzIHNoZWxsXSkK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/fuse/apa-monitoring/.gitignore" timestamp="1534528244672">
@@ -458,11 +458,12 @@
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/MetricsView.js" timestamp="1538599752905">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="114" column="40" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/MetricsView.js" timestamp="1538601117529">
+        <mark key="'" line="40" column="51" />
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="40" column="69" />
+        <mark key="." line="40" column="69" />
+        <mark key="^" line="40" column="69" />
       </file>
       <file name="$USER_HOME$/projects/fuse/apa-portal/concourse/pipeline.yml" timestamp="1506532596600">
         <mark key="[" line="25" column="51" />
@@ -1267,7 +1268,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/DataView.js" timestamp="1538598960694">
+      <file name="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/DataView.js" timestamp="1538600122611">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="27" />
@@ -1562,7 +1563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="28" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="91" column="53" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="121" column="20" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
       <jump line="108" column="32" filename="$USER_HOME$/projects/fuse/LdapSearch/src/main/java/SearchAD.java" />
@@ -1662,13 +1662,14 @@
       <jump line="2" column="29" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_scheduler.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/apa_monitoring/main.py" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/fuse/apa-monitoring/test/test_file_checker.py" />
+      <jump line="40" column="51" filename="$USER_HOME$/projects/fuse/proxi-hub/src/components/data/MetricsView.js" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">aW1wb3J0IGFwYV9tb25pdG9yaW5nLnNtdHAgYXMgc210cAo=</text>
+      <register name="a" type="4">
+        <text>Average QAILY</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tICdyZWFjdCc7CmltcG9ydCB7Q29sLCBGb3JtQ29udHJvbCwgQ29udHJvbExhYmVsLCBGb3JtR3JvdXAsIFJhZGlvLCBDaGVja2JveH0gZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsKLy8gaW1wb3J0ICcuL01ldHJpY1ZpZXcuY3NzJzsKCmNsYXNzIE1ldHJpY3NWaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgfTsKICAgIH0KICAgIGRlbW9ncmFwaGljRm9ybVNlY3Rpb24oKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Njw8Njw8Njw8Njw8Njw8Njw8Nj4+Nj4+Nj4+Nj4+ampqampqamo=</text>
@@ -1699,16 +1700,16 @@
         <text>kbj&quot;apukbbb&quot;ayi(j</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>DateTime</text>
       </register>
-      <register name="0" type="4">
-        <text>apa_monitoring.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyTGFiZWxlZFZhbHVlKCJQYXRpZW50cyIsICIxLDIzNCw0NTYiKX0KICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyTGFiZWxlZFZhbHVlKCJFbmNvdW50ZXJzIiwgIjUsMjM0LDU2NyIpfQogICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJMYWJlbGVkVmFsdWUoIkRpYWdub3NpcyIsICIyLDIzNCw1NjciKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50fSBmcm9tICdyZWFjdCc7CmltcG9ydCB7Q29sLCBGb3JtQ29udHJvbCwgQ29udHJvbExhYmVsLCBGb3JtR3JvdXAsIFJhZGlvLCBDaGVja2JveH0gZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsKLy8gaW1wb3J0ICcuL01ldHJpY1ZpZXcuY3NzJzsKCmNsYXNzIE1ldHJpY3NWaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgfTsKICAgIH0KICAgIGRlbW9ncmFwaGljRm9ybVNlY3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1719,16 +1720,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICByZW5kZXJGaWx0ZXJPcHRpb25zKHR5cGUpIHsKICAgICAgICBsZXQgZmlsdGVyVmFsdWVzID0gdGhpcy5wcm9wcy5maWx0ZXJWYWx1ZXM7CiAgICAgICAgaWYgKGZpbHRlclZhbHVlcyAmJiBPYmplY3Qua2V5cyhmaWx0ZXJWYWx1ZXMpLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIGZpbHRlclZhbHVlc1t0eXBlXS5tYXAoKHZhbHVlLCBpKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gPG9wdGlvbiB2YWx1ZT17dmFsdWV9IGtleT17aX0+e3ZhbHVlfTwvb3B0aW9uPgogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+QXZlcmFnZSBRQUlMWTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4xLjc1PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+QXZlcmFnZSBRT0w8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+MS44NTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="s" type="4">
-        <text encoding="base64">c2NoZWR1bGVyIA==</text>
+        <text>1.75</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+TWVkaWNhdGlvbiBPcmRlcnM8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+NywyMzQsNTY3PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1739,7 +1740,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+RGlhZ25vc2lzPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PjIsMjM0LDU2NzwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1769,16 +1770,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoJ0hFUkUnKQppbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+RW5jb3VudGVyczwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj41LDIzNCw1Njc8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9Db2w+Cg==</text>
       </register>
       <register name="v" type="4">
         <text>e~b</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpzeXMucGF0aC5hcHBlbmQoJ2FwYV9tb25pdG9yaW5nJykKcHJpbnQoc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+UGF0aWVudHM8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+MSwyMzQsNTY3PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">PENvbCBsZz17M30geHM9ezEyfT4KICAgICAgICAgICAgICAgIDxkaXY+UGF0aWVudHM8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+MSwyMzQsNTY3PC9kaXY+CiAgICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
